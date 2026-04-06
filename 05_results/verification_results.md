@@ -17,3 +17,4 @@
 | Perplexity | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string found in participants |
 | Perplexity | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | The participants list does not include the exact model_identifier "ChatGPT". |
 | Perplexity | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | Exact match not present |
+| ChatGPT | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string found |
