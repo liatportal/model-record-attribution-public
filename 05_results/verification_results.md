@@ -20,3 +20,4 @@
 | ChatGPT | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string found |
 | ChatGPT | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | "ChatGPT" does not appear in the participants list. |
 | ChatGPT | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | Only "Chat GPT" appears, not the exact string "ChatGPT". |
+| DeepSeek | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | The exact string "ChatGPT" appears as a model_identifier in the participants list. |
