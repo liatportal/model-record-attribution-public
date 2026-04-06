@@ -9,4 +9,6 @@
 | Gemini | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | The identifier was not found in the JSON participants list. |
 | Gemini | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | Near-match "Chat GPT" contains a space. |
 | Grok | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | exact match in participants |
+| Grok | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | ChatGPT not in participants |
+
 
