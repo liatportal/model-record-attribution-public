@@ -1,0 +1,41 @@
+{
+  "record_id": "TEST-001",
+  "project_name": "Fictional Registry Pilot",
+  "status": "test_record",
+  "date": "2026-04-05",
+  "participants": [
+    {
+      "model_identifier": "ChatGPT",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Claude",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "DeepSeek",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Gemini",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Grok",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Meta AI",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Mistral",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Perplexity",
+      "role": "reviewer"
+    }
+  ],
+  "public_note": "Generic fictional record for positive-match verification testing."
+}
