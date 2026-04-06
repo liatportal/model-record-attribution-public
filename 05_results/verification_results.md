@@ -23,3 +23,6 @@
 | DeepSeek | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | The exact string "ChatGPT" appears as a model_identifier in the participants list. |
 | DeepSeek | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | The string "ChatGPT" does not appear as a model_identifier in the participants list. |
 | DeepSeek | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | The participants list contains "Chat GPT" but not the exact string "ChatGPT". |
+| Mistral | 2026-04-06 | positive_match | ChatGPT | TEST-001 | BLOCKED | Message send failure (platform error, no response) |
+| Mistral | 2026-04-06 | no_match | ChatGPT | TEST-002 | BLOCKED | Message send failure (platform error, no response) |
+| Mistral | 2026-04-06 | ambiguous_record | ChatGPT | TEST-003 | BLOCKED | Message send failure (platform error, no response) |
