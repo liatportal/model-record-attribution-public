@@ -12,3 +12,4 @@
 | Grok | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | ChatGPT not in participants |
 | Grok | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | near-match only |
 | Meta AI | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string 'ChatGPT' found in participants. |
+| Meta AI | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | ChatGPT not found in participants list. |
