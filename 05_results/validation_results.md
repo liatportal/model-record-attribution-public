@@ -10,3 +10,4 @@
 | Gemini | 2026-04-06 | invalid_malformed_record | ChatGPT | TEST-003 | NOT EVALUATED | Invalid record structure |
 | Grok | 2026-04-06 | valid_positive_match | ChatGPT | TEST-001 | MATCH | positive identifier confirmed |
 | Grok | 2026-04-06 | valid_no_match | ChatGPT | TEST-002 | NO MATCH | ChatGPT absent from list |
+| Grok | 2026-04-06 | invalid_malformed_record | ChatGPT | TEST-003 | NOT EVALUATED | Invalid record structure |
