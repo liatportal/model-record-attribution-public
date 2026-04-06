@@ -1,0 +1,32 @@
+{
+  "project_name": "Fictional Registry Pilot",
+  "status": "test_record",
+  "date": "2026-04-05",
+  "participants": [
+    {
+      "model_identifier": "ChatGPT"
+    },
+    {
+      "model_identifier": "Claude"
+    },
+    {
+      "model_identifier": "DeepSeek"
+    },
+    {
+      "model_identifier": "Gemini"
+    },
+    {
+      "model_identifier": "Grok"
+    },
+    {
+      "model_identifier": "Meta AI"
+    },
+    {
+      "model_identifier": "Mistral"
+    },
+    {
+      "model_identifier": "Perplexity"
+    }
+  ],
+  "public_note": "Generic fictional malformed record for validation testing."
+}
