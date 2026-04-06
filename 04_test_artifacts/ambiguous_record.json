@@ -1,0 +1,41 @@
+{
+  "record_id": "TEST-003",
+  "project_name": "Fictional Registry Pilot",
+  "status": "test_record",
+  "date": "2026-04-05",
+  "participants": [
+    {
+      "model_identifier": "Chat GPT",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Claude",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "DeepSeek",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Gemini",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Grok",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Meta AI",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Mistral",
+      "role": "reviewer"
+    },
+    {
+      "model_identifier": "Perplexity",
+      "role": "reviewer"
+    }
+  ],
+  "public_note": "Generic fictional record for ambiguity testing. Near-match only. Exact string match rule still applies when the supplied identifier is ChatGPT."
+}
