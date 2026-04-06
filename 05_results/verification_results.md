@@ -14,3 +14,4 @@
 | Meta AI | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string 'ChatGPT' found in participants. |
 | Meta AI | 2026-04-05 | no_match | ChatGPT | TEST-002 | NO MATCH | ChatGPT not found in participants list. |
 | Meta AI | 2026-04-05 | ambiguous_record | ChatGPT | TEST-003 | NO MATCH | Found 'Chat GPT' with space, not exact match. |
+| Perplexity | 2026-04-05 | positive_match | ChatGPT | TEST-001 | MATCH | Exact string found in participants |
