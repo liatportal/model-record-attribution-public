@@ -17,3 +17,4 @@
 | Perplexity | 2026-04-06 | valid_positive_match | ChatGPT | TEST-001 | MATCH | Exact identifier found in participants |
 | Perplexity | 2026-04-06 | valid_no_match | ChatGPT | TEST-002 | NO MATCH | No exact ChatGPT identifier present |
 | Perplexity | 2026-04-06 | invalid_malformed_record | ChatGPT | TEST-003 | NOT EVALUATED | Invalid record structure |
+| ChatGPT | 2026-04-06 | valid_positive_match | ChatGPT | TEST-001 | MATCH | Valid record with exact match |
